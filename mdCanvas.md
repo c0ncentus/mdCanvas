@@ -2,45 +2,30 @@
 Lean Canvas
 
 # Problem
-1. Top problem
-1. Top problem
-1. Top problem
+1. je ne veux pas me prendre la tête avec une partition
+1. dure de trouver  une information complète
+1. C'est dure d'interprèter une partition
 
 # Customer-segment
-1. Target customer
-1. Target customer
-1. Target customer
+1. instumentistes sur la musique savante en France (non percussioniste)
 
 # Unique-Value-Proposition
-**Single**, _clear_, `compelling` message that states why you are different and worth buying
+
 
 # Solution
-- First top feature
-- Second top feature
-- Third top feature
+- Partition à travers une page web qui fait une génération de tablature automatique via un fichier uploader ou existant. 
+- "wiki"
+- mette une "ambiance" pertinante
 
 # Channels
-- Path to the customer
-- Social media
-- Point of sale
+- email, téléphone
+- Discord
+- Linkedin
 
 # Cost-Structure
-- Customer aquisition costs
-- Distribution costs
-- Hosting
-- People, ...
 
 # Revenue-Stream
-- Revenue model 
-- Life time value
-- Revenue
-- Gross margin
 
 # Key-Metrics
-- Key activity to measure
-- Other key activity to measure
-- Another key activity to measure
 
 # Unfair-advantage
-- C'ant be easily...
-- ... copied and bought
