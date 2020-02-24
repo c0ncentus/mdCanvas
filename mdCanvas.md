@@ -2,7 +2,7 @@
 Lean Canvas
 
 # Problem
-1. je ne veux pas me prendre la tête avec une partition
+1. la partition est trop dure à déchiffrer
 1. dure de trouver  une information complète
 1. C'est dure d'interprèter une partition
 
