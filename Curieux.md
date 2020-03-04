@@ -3,9 +3,8 @@ Lean Canvas
 
 # Problem
 1. il y a pas d'information complète 
-2. information et parfois fausse, obsolète
-3. milieux très peu accessible
-4. Wikipédia c’est trop engageant
+2. milieux très peu accessible
+3. manque de motivation pour l'écoute
 
 # Customer-segment
 1. Curieux de la musique savante en France accessible sur Discord
